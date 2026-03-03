@@ -10,13 +10,13 @@ Build a Random Forest Classifier and a Gradient Boosting Classifier
 Evaluate and compare model performance
 Analyze feature importance and draw practical insights from model outputs
 
-##Technologies Used
+## Technologies Used
 Python
 Libraries - Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn
 
-##Methodology
+## Methodology
 1. Exploratory data Analysis
-   * Understanding data patterns, relationships and anomalies
+  * Understanding data patterns, relationships and anomalies
 2.  Data Preprocessing
    * Handling missing values, Encoding categorical variables, Feature selection and preparation
 3. Model Development and Evaluation
