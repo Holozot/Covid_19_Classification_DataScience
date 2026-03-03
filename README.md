@@ -6,8 +6,11 @@ The project was completed collaboratively within a group setting, with contribut
 
 ## Objectives
 Carry out Exploratory Data Analysis
+
 Build a Random Forest Classifier and a Gradient Boosting Classifier
+
 Evaluate and compare model performance
+
 Analyze feature importance and draw practical insights from model outputs
 
 ## Technologies Used
